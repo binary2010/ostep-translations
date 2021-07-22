@@ -4,3 +4,5 @@ Various translations of OSTEP can be found here. Help the cause and contribute! 
 * [Chinese](chinese)
 * [Korean](korean)
 * [Japanese](japanese)
+
+https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/
